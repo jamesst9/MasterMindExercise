@@ -1,0 +1,7 @@
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\bin\Debug\MastermindExercise.exe.config
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\bin\Debug\MastermindExercise.exe
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\bin\Debug\MastermindExercise.pdb
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\obj\Debug\MastermindExercise.csprojAssemblyReference.cache
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\obj\Debug\MastermindExercise.csproj.CoreCompileInputs.cache
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\obj\Debug\MastermindExercise.exe
+C:\Users\sjames\Documents\Visual Studio 2017\Projects\MastermindExercise\MastermindExercise\obj\Debug\MastermindExercise.pdb
